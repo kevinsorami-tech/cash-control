@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "69b756b54eb7b96a455c65b9"
+  },
+  "correo": "cliente@gmail.com",
+  "fuente": "scraping_emulado"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69b759314eb7b96a455c65c8"
+  },
+  "categoria": "Comida"
+},
+{
+  "_id": {
+    "$oid": "69b759384eb7b96a455c65ca"
+  },
+  "categoria": "Transporte"
+},
+{
+  "_id": {
+    "$oid": "69b759404eb7b96a455c65cc"
+  },
+  "categoria": "Entretenimiento"
+},
+{
+  "_id": {
+    "$oid": "69b759484eb7b96a455c65ce"
+  },
+  "categoria": "Servicios"
+},
+{
+  "_id": {
+    "$oid": "69b7594f4eb7b96a455c65d0"
+  },
+  "categoria": "Salud"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69b754044eb7b96a455c659d"
+  },
+  "nombre": "Kevin",
+  "correo": "kevin@gmail.com",
+  "password": "123456",
+  "rol": "admin",
+  "fecha_registro": "2026-03-15"
+},
+{
+  "_id": {
+    "$oid": "69b7544b4eb7b96a455c65a0"
+  },
+  "nombre": "Ruben",
+  "correo": "ruben@gmail.com",
+  "password": "123456",
+  "rol": "admin",
+  "fecha_registro": "2026-03-15"
+},
+{
+  "_id": {
+    "$oid": "69b754704eb7b96a455c65a2"
+  },
+  "nombre": "Mario",
+  "correo": "mario@gmail.com",
+  "password": "123456",
+  "rol": "admin",
+  "fecha_registro": "2026-03-15"
+},
+{
+  "_id": {
+    "$oid": "69b7548d4eb7b96a455c65a4"
+  },
+  "nombre": "Bryan",
+  "correo": "elbryan@gmail.com",
+  "password": "123456",
+  "rol": "admin",
+  "fecha_registro": "2026-03-15"
+}]

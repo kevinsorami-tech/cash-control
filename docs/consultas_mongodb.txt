@@ -1,0 +1,18 @@
+CONSULTAS DEL SISTEMA
+
+Ver gastos de un usuario:
+
+{ "usuario": "Ruben" }
+
+Consulta para calcular total de gastos de un usuario:
+
+Stage 1
+{
+ "usuario": "Ruben"
+}
+
+Stage 2
+{
+ "_id": "$usuario",
+ "total_gastos": { "$sum": "$cantidad" }
+}

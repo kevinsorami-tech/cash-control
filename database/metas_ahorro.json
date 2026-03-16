@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "69b75a294eb7b96a455c65d8"
+  },
+  "usuario": "Kevin",
+  "meta": "Comprar laptop",
+  "monto_objetivo": 20000,
+  "ahorrado": 5000
+}]
